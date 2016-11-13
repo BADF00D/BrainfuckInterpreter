@@ -1,0 +1,8 @@
+X:\BrainfuckInterpreter\src\TestinBrainfuckInterpreter\bin\Debug\TestinBrainfuckInterpreter.exe.config
+X:\BrainfuckInterpreter\src\TestinBrainfuckInterpreter\bin\Debug\TestinBrainfuckInterpreter.exe
+X:\BrainfuckInterpreter\src\TestinBrainfuckInterpreter\bin\Debug\TestinBrainfuckInterpreter.pdb
+X:\BrainfuckInterpreter\src\TestinBrainfuckInterpreter\bin\Debug\BrainfuckInterpreter.dll
+X:\BrainfuckInterpreter\src\TestinBrainfuckInterpreter\bin\Debug\BrainfuckInterpreter.pdb
+X:\BrainfuckInterpreter\src\TestinBrainfuckInterpreter\obj\Debug\TestinBrainfuckInterpreter.csprojResolveAssemblyReference.cache
+X:\BrainfuckInterpreter\src\TestinBrainfuckInterpreter\obj\Debug\TestinBrainfuckInterpreter.exe
+X:\BrainfuckInterpreter\src\TestinBrainfuckInterpreter\obj\Debug\TestinBrainfuckInterpreter.pdb

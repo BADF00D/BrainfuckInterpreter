@@ -1,0 +1,5 @@
+X:\BrainfuckInterpreter\src\BrainfuckInterpreter\bin\Debug\BrainfuckInterpreter.dll
+X:\BrainfuckInterpreter\src\BrainfuckInterpreter\bin\Debug\BrainfuckInterpreter.pdb
+X:\BrainfuckInterpreter\src\BrainfuckInterpreter\obj\Debug\BrainfuckInterpreter.csprojResolveAssemblyReference.cache
+X:\BrainfuckInterpreter\src\BrainfuckInterpreter\obj\Debug\BrainfuckInterpreter.dll
+X:\BrainfuckInterpreter\src\BrainfuckInterpreter\obj\Debug\BrainfuckInterpreter.pdb
