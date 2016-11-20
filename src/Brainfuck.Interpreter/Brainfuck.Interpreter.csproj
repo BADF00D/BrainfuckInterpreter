@@ -41,7 +41,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BrainfuckInterpreter.cs" />
-    <Compile Include="Implentation\ByteBrainfuckInterpreter.cs" />
     <Compile Include="InterpreterState.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
